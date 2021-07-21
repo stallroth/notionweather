@@ -1,0 +1,4 @@
+<a class="weatherwidget-io" href="https://forecast7.com/en/44d52n89d57/stevens-point/?unit=us" data-label_1="stevens point" data-label_2="weather & forecast" data-font="Tinos" data-theme="gray" data-basecolor="#2f3437" data-highcolor="#ffffff" data-lowcolor="#ffffff" data-suncolor="#ffd14d" >stevens point weather & forecast</a>
+<script>
+!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src='https://weatherwidget.io/js/widget.min.js';fjs.parentNode.insertBefore(js,fjs);}}(document,'script','weatherwidget-io-js');
+</script>
